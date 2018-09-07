@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cms.postcategories"},{"v":2,"unique":true,"key":{"key":1},"name":"key_1","ns":"cms.postcategories","background":true}],"uuid":"aa7a8d681dea42d28517da8e5988d547"}

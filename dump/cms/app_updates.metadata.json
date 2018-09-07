@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cms.app_updates"},{"v":2,"key":{"key":1},"name":"key_1","ns":"cms.app_updates","background":true}],"uuid":"ead9c89d84da419ca66474bedbe1b35c"}

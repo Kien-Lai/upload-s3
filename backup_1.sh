@@ -1,0 +1,2 @@
+# mongodump --host localhost --port 27017  --db "noddier"  -u "laikien" -p "123456"  && zip -r ~/Desktop/upload-s3/backup_db.zip dump && node ~/Desktop/upload-s3/index_1.js
+cd ~ && mongodump --host localhost --port 27017  --db "noddier"  -u "laikien" -p "123456" && zip -r ~/Desktop/upload-s3/backup_db.zip ~/dump  && cd ~/Desktop/upload-s3 && node index_1.js
